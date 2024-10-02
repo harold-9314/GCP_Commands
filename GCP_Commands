@@ -1,0 +1,2 @@
+# Loguearse con la cuenta del proyecto
+gcloud auth login
